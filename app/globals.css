@@ -15,9 +15,9 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: blue;
+  color: rgb(255, 230, 0);
 }
 
 nav a:focus {
-  outline: 2px solid orange;
+  outline: 2px solid rgb(0, 0, 0);
 }
